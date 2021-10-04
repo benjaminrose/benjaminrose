@@ -6,3 +6,7 @@
 - ✍️ I occationally share random thoughts on my [blog](https://benjaminrose.github.io/blog)
 - 🌱 I’m currently learning [pymc3](https://docs.pymc.io), [GitHub Actions](https://github.com/features/actions), and how to combine software engeering with exploratory data science.
 - 😄 Pronouns: he, him, his
+
+
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminrose&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
