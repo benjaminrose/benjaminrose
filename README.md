@@ -4,7 +4,7 @@
 - 👨‍👩‍👦‍👦 I'm proud of my three sons.
 - ✅ My current and past research is described on my [website](https://benjaminrose.github.io/research).
 - ✍️ I occationally share random thoughts on my [blog](https://benjaminrose.github.io/blog)
-- 🌱 I’m currently learning [pymc3](https://docs.pymc.io), [GitHub Actions](https://github.com/features/actions), and how to combine software engeering with exploratory data science.
+- 🌱 I’m currently learning [pymc](https://www.pymc.io/welcome.html), [GitHub Actions](https://github.com/features/actions), and how to combine software engeering with exploratory data science.
 - 😄 Pronouns: he, him, his
 
 
